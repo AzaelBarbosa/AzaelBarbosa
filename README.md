@@ -11,13 +11,19 @@
 
 <p align="center"> 
   <a href="#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://github.com/AzaelBarbosa/AzaelBarbosa/blob/main/assets/icons/python.png" alt="python" width="40" height="40"/> 
   </a>  
   <a href="#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://github.com/AzaelBarbosa/AzaelBarbosa/blob/main/assets/icons/mysql.png" alt="MySql" width="40" height="40"/> 
   </a> 
   <a href="#" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://github.com/AzaelBarbosa/AzaelBarbosa/blob/main/assets/icons/sql-server.png" alt="SQL" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/AzaelBarbosa/AzaelBarbosa/blob/main/assets/icons/visual-studio.png" alt=".NET" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/AzaelBarbosa/AzaelBarbosa/blob/main/assets/icons/nodejs.png" alt="nodejs" width="40" height="40"/> 
   </a>
 </p>
 

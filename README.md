@@ -27,9 +27,18 @@
   </a>
 </p>
 
+Certificados
+
+<p>
+    <a href="https://imgur.com/Xax7FfK">GitHub</a>
+</p>
+
+
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=AzaelBarbosa&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzaelBarbosa&theme=react&layout=compact" />
 </p>
+
+
 
 ------

@@ -27,10 +27,12 @@
   </a>
 </p>
 
-Certificados
+- 🧾 CERTIFICATES
 
 <p>
     <a href="https://imgur.com/Xax7FfK">GitHub</a>
+    <a href="#">Python</a>
+    <a href="#">JavaScript</a>
 </p>
 
 

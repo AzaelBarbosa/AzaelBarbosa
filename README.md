@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azael Barbosa</h1>
 
 
-- 🔭 I’m currently working on my **Python Course**
-
-- 🌱 I’m currently learning **Python, JavaScript**
+- 🔭 I’m currently working on **Fullstack **
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
